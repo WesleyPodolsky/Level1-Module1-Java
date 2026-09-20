@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Level1-Module1-Java/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="Level1-Module1-Java/lib/core.jar"/>
+	<classpathentry exported="true" kind="lib" path="Level1-Module1-Java/lib/TokenHacker.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/TokenHacker.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
